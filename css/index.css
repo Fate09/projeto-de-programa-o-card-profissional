@@ -1,0 +1,33 @@
+body{
+    background-color: #470000;
+}
+section{
+   width: 50%;
+   height: 90vh;
+   margin-left: 20%;
+   background-color: #961c1c;
+   border-radius: 2%;
+}
+section img{
+    margin-left: 26%;
+    margin-top: 10vh;
+    border-radius: 200%;
+    max-width: 50%;
+}
+section h1{
+    margin-left: 48%;
+    margin-top: 10vh;
+}
+section p{
+    text-align: center;
+    color: #ffffff;
+  
+}
+section button{
+    margin-left: 40%;   
+    width: 20%; 
+    min-height: 10vh;
+    background-color: #ffd900;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border-radius: 10%;
+}
